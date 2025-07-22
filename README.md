@@ -4,7 +4,7 @@ Diagnose diseases like Pneumonia, COVID-19, Tuberculosis and Normal lungs condit
 **Rayscan AI** : It is a deep learning-based medical imaging project that detects lung diseases such as **Pneumonia**, **COVID-19**, **Tuberculosis**, and identifies **Normal** cases from chest X-ray images. It uses powerful convolutional neural network architectures like **VGGNet**, **ResNet**, and **InceptionNet** to assist in accurate and early diagnosis.
 
 ## 🩺 Project Objectives
-- Detect and classify chest X-rays into:
+- Detect and classify Chest X-rays images into:
   - COVID-19
   - Pneumonia
   - Tuberculosis
